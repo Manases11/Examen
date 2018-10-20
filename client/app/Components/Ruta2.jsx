@@ -8,7 +8,7 @@ class Home extends React.Component {
         return(
             <div>
 
-Hola soy la ruta Numero 2
+Hola soy la ruta 2
 
             </div>
         )
