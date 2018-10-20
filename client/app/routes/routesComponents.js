@@ -38,11 +38,11 @@ const RoutesCom = [
         components: <Cards/>
     },
     {
-        route: routes.Ruta1,
+        route: routes.RUTA1,
         components: <Ruta1/>
     },
     {
-        route: routes.Ruta2,
+        route: routes.RUTA2,
         components: <Ruta2/>
     }
 ]
